@@ -5,7 +5,7 @@ const seed = [
         id: 1, status: 'Hilang', namaPelapor: 'Ahmad Fauzi', kontak: '081298765432',
         namaBarang: 'Dompet kulit coklat (isi STNK dan KTP)', kategori: 'Dompet & Tas',
         lokasi: 'Kawasan Malioboro, Yogyakarta', tanggal: '2026-06-01', milikSaya: false,
-        deskripsi: 'Hilang di sekitar area parkir timur. Ada hadiah bagi yang menemukan.', foto: 'dompetkulitcoklat.jpg'
+        deskripsi: 'Hilang di sekitar area parkir timur. Ada hadiah bagi yang menemukan.', foto: 'images/dompetkulitcoklat.jpg'
     },
     {
         id: 2, status: 'Temuan', namaPelapor: 'Siti Rahma', kontak: '085612345678',
