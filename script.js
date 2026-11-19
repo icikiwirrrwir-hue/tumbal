@@ -11,13 +11,13 @@ const seed = [
         id: 2, status: 'Temuan', namaPelapor: 'Siti Rahma', kontak: '085612345678',
         namaBarang: 'Kunci motor Honda dan STNK', kategori: 'Dokumen',
         lokasi: 'Fakultas Teknik Kampus', tanggal: '2026-06-02', milikSaya: false,
-        deskripsi: 'Ditemukan di atas meja kantin area pojok.', foto: ''
+        deskripsi: 'Ditemukan di atas meja kantin area pojok.', foto: 'images-(1).jfif'
     },
     {
         id: 3, status: 'Hilang', namaPelapor: 'Dewi Lestari', kontak: '087711223344',
         namaBarang: 'HP Samsung hitam', kategori: 'Elektronik',
         lokasi: 'Terminal Giwangan, Yogyakarta', tanggal: '2026-05-28', milikSaya: false,
-        deskripsi: 'Casing biru tua, ada retak kecil di pojok kiri atas.', foto: '',
+        deskripsi: 'Casing biru tua, ada retak kecil di pojok kiri atas.', foto: 'images-(2).jfif',
         selesai: true, tanggalSelesai: '2026-06-04'
     }
 ];
